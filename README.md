@@ -6,10 +6,17 @@ A little template project for trying out Gleam compiled to JavaScript.
 
 Click on "Use this template" to create you own copy of this repository.
 
+Ensure you have [Gleam](https://gleam.run/getting-started/#installing-gleam) and
+[NodeJS](https://nodejs.org/en/download/) installed.
+
 ```sh
+# Clone and enter the project
+git clone $MY_REPO_CLONE_URL hello-gleam-js
+cd hello-gleam-js
+
 # Install the node modules
 npm install
 
-# Run the Gleam JavaScript program
+# Run the Gleam program on NodeJS
 npm start
 ```
