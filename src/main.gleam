@@ -5,7 +5,7 @@ import text
 external fn pretty(String) -> String =
   "./ffi.js" "pretty"
 
-// Import a JavaScript function a global object
+// Import a JavaScript function from a global object
 external fn log(anything) -> Nil =
   "" "console.log"
 
