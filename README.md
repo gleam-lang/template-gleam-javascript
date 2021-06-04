@@ -4,7 +4,7 @@ A little template project for trying out Gleam compiled to JavaScript.
 
 ## Usage
 
-Click on "Use this template" to create you own copy of this repository.
+Click on "Use this template" to create your own copy of this repository.
 
 Ensure you have [Gleam](https://gleam.run/getting-started/#installing-gleam) and
 [NodeJS](https://nodejs.org/en/download/) installed.
