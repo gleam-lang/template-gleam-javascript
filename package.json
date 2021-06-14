@@ -2,7 +2,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "rm -fr out && cp -r src out && gleam compile-package --name my_app --target javascript --src out --out out && node index.js"
+    "start": "rm -fr out && cp -r src out && gleam compile-package --name my_app --target javascript --src out --out out && node index.js",
+    "uuid": "8bde8a39-a48c-43d4-9428-4cacb7198ad1"
   },
   "dependencies": {
     "colors": "^1.4.0"
