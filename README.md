@@ -20,3 +20,5 @@ npm install
 # Run the Gleam program on NodeJS
 npm start
 ```
+
+And now you can write your Gleam and JavaScript code in the `src` directory.
